@@ -1,4 +1,4 @@
-![Lend a read logo](webapp/src/main/webapp/static/images/logo-oscuro.png)
+![Lend a read logo](webapp/src/main/webapp/static/images/logo-claro.png)
 # Lend a Read
 ## Idea
 El objetivo de la aplicacion web es poder crear una comunidad de lectores, donde todos estos pueden subir sus libros y solictar prestamos entre si. El objetivo es
